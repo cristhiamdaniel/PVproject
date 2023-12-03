@@ -1,5 +1,5 @@
-from PVModel import PVModel
-from GraphGenerator import GraphGenerator
+from models.PVModel import PVModel
+from utils.GraphGenerator import GraphGenerator
 
 if __name__ == '__main__':
     # Instanciar la clase PVModel
